@@ -1,0 +1,1 @@
+print("El Nombre de tu cerveza es '" + input("Ingrese la Palabra1") + " " + input("ingrese la palabra ")+"'")
